@@ -14,7 +14,7 @@ A quick point, regarding the name; Crabs and Caverns was a temporary title to he
 ---
 
 ## How is Crabs and Caverns Constructed?
-Crabs and Caverns can be divided into two separate sections:
+Crabs and Caverns content can be divided into two separate sections:
 
 ### Official Material:
  - This includes the User's Encyclopedia, the Game Masters' Encyclopedia, and First-Party Modules released directly from the Crabs and Caverns team.
