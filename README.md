@@ -22,8 +22,6 @@ Crabs and Caverns content can be divided into two separate sections:
 ### Community Material:
 - This includes Third-Party Modules, like community-made story modules, equipment expansions, and other reference modules.
 
-<br>
-
 Official Material is made of a baseline of material originating from the Crabs and Caverns team. That being said, Community Material that has overwhelming support by the community can and will be adopted into Official Material.
 
 For example, a homebrew rule for grappling that a majority of players like more than the Official interpretation can and will be adopted into the Official Material if the community believes that it should be adopted. 
