@@ -19,46 +19,69 @@ A character is how a player interacts with the world, and they can take many for
 
 Characters, like real-life people, are dynamic and multi-faceted; people rarely do drastic things for no reason. Think about the motivations driving your character. Do you want power, money, or respect?
 
+---
+
 ### Things Characters Are
 
->***[[#Traits]]*** are the major statistics of C&C, and define how your character is described. The higher a character's ***[[#Might]]***, the more likely they'll be described as "strong" or "muscular". The higher a character's ***[[#Coordination]]***, the more likely they'll be described as "swift" or "agile". Likewise, if a character's ***[[#Brilliance]]*** is low, they may just be described as "stupid" or "simple." 
->
->Traits are only modified during character creation and major events, like losing a limb or being blessed by a God or Goddess. Your Traits also denote the starting value of your Skills. Refer to the ***[[#Traits-Skills Matrix]]*** for a more coherent explanation.
->
->***[[#Skills]]*** are the minor statistics of C&C, and are how characters accomplish tasks. Their starting value is derived from the trait that the skill draws from. The higher a skill's value is, the more likely your character will be able to accomplish that task. If a character has a 66 in the skill *Quick Attack*, they will likely hit 2 out of 3 times. 
->
->Skills are modified by the player, and go up to 99. That leaves a 1% chance of a skilled character failing a given test. Nobody's perfect, even you.
->
->***[[#Tags]]*** are Crabs and Caverns' way of giving characters proficiency with skills, weapons, abilities, and knowledge. They're a vital part of the C&C system, as they allow for characters to "feel" different, mechanically speaking. This way, you don't always make the same wizard that plays the same way as the last hundred did. 
->
->By spending experience on a Tag, a character could get something such as proficiency with a weapon or skill, or become more knowledgeable about certain topics.
+#### Traits
+***Traits*** are the major statistics of C&C, and define how your character is described. The higher a character's ***Might***, the more likely they'll be described as "strong" or "muscular". The higher a character's ***Coordination***, the more likely they'll be described as "swift" or "agile". Likewise, if a character's ***Brilliance*** is low, they may just be described as "stupid" or "simple." 
+
+Traits are only modified during character creation and major events, like losing a limb or being blessed by a God, Goddess, or other major figurehead or indescribable entity. Your Traits also denote the starting value of your Skills. Refer to the ***Traits-Skills Matrix*** for a more coherent explanation.
+
+<br>
+
+#### Skills
+***Skills*** are the minor statistics of C&C, and are how characters accomplish tasks. Their starting value is derived from the trait that the skill draws from. The higher a skill's value is, the more likely your character will be able to accomplish that task; a skill's value is effectively their percentage for being successful at passing a test. 
+
+If a character has a 66 in the skill *Quick Attack*, they will likely hit 2 out of 3 times. If a character has a 2 in the skill *Persuasion*, then they are inherently unconvincing; that being said, there's always a chance that it might work. Swing for the fences!
+
+Skills are modified by the player, and go up to 99. That leaves a 1% chance of a skilled character failing a given test. Nobody's perfect, even you.
+
+<br>
+
+#### Tags
+***Tags*** are Crabs and Caverns' way of giving characters proficiency with skills, weapons, abilities, and knowledge. They're a vital part of the C&C system, as they allow for characters to "feel" different, mechanically speaking. This way, you don't always make the same wizard that plays the same way as the last fifty did. 
+
+By spending experience on a Tag, a character could get something such as proficiency with a weapon or skill, or become more knowledgeable about certain topics. 
+
+Tags are designed to be modular and easy to understand. Characters are capable of only knowing, doing, or being whatever that Tag explicitly states. If you want to do something special, there's probably a Tag for that.
+
+---
 
 ### Things Characters Have
 
->Characters have common ***[[#equipment]]***, but flavoring your character and their actions is very important. This allows players and game masters to reference relatively simple equipment tables, while still letting players craft the character they want. 
+#### Equipment
+
+Characters have common ***Equipment***, but flavoring your character and their actions is a massive part of Crabs and Caverns. Standardized, flavor-able equipment allows players and game masters to reference relatively simple equipment tables, while still letting players craft the character's actions, look and style however they want. 
+
+The following example serves to explain:
+
+##### Example: A Tale of Two Swords
 >
->The following example serves to explain:
+>While *Pirate Captain Parker* and *Condor the Indefatigable* both have short swords, the Pirate is equipped with an ornate, stylish, and recently oiled cutlass purchased mere minutes ago with stolen coin. It shimmers in the seaside sunlight, catching reflections and blinding himself occasionally.
 >
->>[!abstract] A Tale of Two Swords
->>
->>While *Pirate Captain Parker* and *Condor the Indefatigable* both have short swords, the Pirate is equipped with an ornate, stylish, and recently oiled cutlass purchased mere minutes ago; likewise, Condor's short sword was taken from the torso of a slain enemy countless decades ago, chipped blade and wobbly handle both looking and feeling their age. However, both weapons are mechanically identical unless otherwise noted. They use the statistics of the short sword weapon, listed down in the ***[[#Weapons|weapon table]]***. 
->
->Describing your character, their equipment, and how they interact is half the fun! Crabs and Caverns seeks to avoid the pitfalls of other game systems where a stick-figure character swings a sword twice, misses both times, and then waits twenty minutes until it's their turn to miss again. 
->
->Perhaps your character, who has a very high Coordination trait, gracefully ducks and rolls to avoid damage; if another character has low Coordination, they may instead stumble and drop items carelessly. 
->
->Work with your Game Master and other party members to describe combat, investigation, and other interactions within the world. 
+>Likewise, Condor's short sword was taken from the torso of some slain enemy countless decades ago, the chipped, rusty blade and wobbly handle both looking and feeling their age. However, both weapons are mechanically identical unless otherwise noted. They both use the statistics of the short sword weapon, listed in the Weapons table on the Equipment page. 
+
+#### Descriptions
+Describing your character, their equipment, and how they interact is half the fun! Crabs and Caverns seeks to avoid the pitfalls of other game systems where a stick-figure character swings a sword twice, misses both times, and then waits twenty minutes until it's their turn to miss again. 
+
+Perhaps your character, who has a very high ***Coordination*** trait, gracefully ducks and rolls to avoid damage; if another character has low ***Coordination***, they may instead stumble and drop items carelessly. 
+
+Work with your Game Master and other party members to describe combat, investigation, and other interactions within the world. 
+
+---
 
 ### Things Characters Do
->***[[#Tests| Characters interact with the world by passing or failing Tests]]***. The outcomes of tests vary in severity; failing to persuade the grumpy, hungover bartender for free drinks at the bar may have you thrown out, or *worse.* 
->
->One important difference between Crabs and Caverns and some other game systems is that, just like in real life, characters are free to attempt *any* test, whether or not a character is capable of that skill. 
->
->Whether they pass or fail the test is up to their skills (and, of course, the dice gods), but there should only rarely if ever be a situation where the party is locked out of most options.
->
->Additionally, some tests are flexible; in many cases, most people are willing to bend the rules. Just because your character failed a test doesn't mean that your character has lost everything, just that particular avenue.
->
->>[!abstract] Maybe I *don't* know you...
+#### Tests
+Characters interact with the world by passing or failing ***Tests***. The outcomes of tests vary in severity; failing to persuade the grumpy, hungover bartender for free drinks at the bar may have you thrown out, or *worse.* 
+
+One important difference between Crabs and Caverns and some other game systems is that, just like in real life, characters are free to attempt *any* test, whether or not a character is capable of that skill. 
+
+Whether they pass or fail the test is up to their skills (and, of course, the dice gods), but there should only rarely if ever be a situation where the party is locked out of most options. One of the biggest pain points of building a character for a game is being locked out of interesting options because you didn't understand how the system worked.
+
+Additionally, some tests are flexible; in many cases, most people are willing to bend the rules. Just because your character failed a test doesn't mean that your character has lost everything, just that particular avenue.
+
+##### Example: Maybe I *don't* know you...
 >>*Pirate Captain Parker* has just arrived at Cobalt Atoll, and the first thing he sees is a wanted poster emblazoned with his caricature. The second thing he sees is the dockmaster, who is rather quickly approaching him and his vessel. Having previously failed a Disguise test to conceal his face, he quickly thinks of another option; perhaps the dockmaster would be willing to ignore Pirate Captain Parker and his vessel if he was paid handsomely...
 >
 >Passing and failing tests is also how combat is conducted. To attack, you must pass a Quick Attack, Power Attack, Focus, or Knowledge skill test, depending on the attack.
