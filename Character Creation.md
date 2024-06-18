@@ -54,6 +54,8 @@ Tags are designed to be modular and easy to understand. Characters are capable o
 
 Characters have common ***Equipment***, but flavoring your character and their actions is a massive part of Crabs and Caverns. Standardized, flavor-able equipment allows players and game masters to reference relatively simple equipment tables, while still letting players craft the character's actions, look and style however they want. 
 
+<br>
+
 The following example serves to explain:
 
 ##### Example: A Tale of Two Swords
@@ -61,6 +63,8 @@ The following example serves to explain:
 >While *Pirate Captain Parker* and *Condor the Indefatigable* both have short swords, the Pirate is equipped with an ornate, stylish, and recently oiled cutlass purchased mere minutes ago with stolen coin. It shimmers in the seaside sunlight, catching reflections and blinding himself occasionally.
 >
 >Likewise, Condor's short sword was taken from the torso of some slain enemy countless decades ago, the chipped, rusty blade and wobbly handle both looking and feeling their age. However, both weapons are mechanically identical unless otherwise noted. They both use the statistics of the short sword weapon, listed in the Weapons table on the Equipment page. 
+
+<br>
 
 #### Descriptions
 Describing your character, their equipment, and how they interact is half the fun! Crabs and Caverns seeks to avoid the pitfalls of other game systems where a stick-figure character swings a sword twice, misses both times, and then waits twenty minutes until it's their turn to miss again. 
